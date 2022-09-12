@@ -355,7 +355,7 @@ p {
 .technologies-image {
   width: 15vw;
   height: auto;
-  margin: auto;
+  margin: 5px 10px;
   text-align: center;
 }
 
@@ -570,6 +570,10 @@ p {
     justify-content: space-between;
   }
 
+  .my-photo {
+    text-align: center;
+  }
+
   .footer {
     margin-bottom: 0;
   }
@@ -653,10 +657,6 @@ p {
 
   .text-lg-center {
     text-align: center;
-  }
-
-  .text-lg-left {
-    text-align: left;
   }
 
   .text-lg-right {
