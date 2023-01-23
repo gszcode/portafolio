@@ -16,7 +16,7 @@
   --text-color: #222;
   --white-alpha-color: rgba(255, 255, 255, 0.75);
   --black-alpha-color: rgba(0, 0, 0, 0.75);
-  --font: "Raleway", sans-serif;
+  --font: 'Raleway', sans-serif;
   --max-width: 1200px;
   --header-hight: 4rem;
 }
@@ -132,7 +132,7 @@ p {
   font-family: monospace;
   white-space: nowrap;
   border-right: 4px solid;
-  width: 12ch;
+  width: 8ch;
 
   animation: typing 2s steps(12), blink 0.5s infinite step-end alternate;
   overflow: hidden;
@@ -466,13 +466,13 @@ p {
   resize: none;
 }
 
-.contact-form input[type="submit"] {
+.contact-form input[type='submit'] {
   margin-top: 0;
   cursor: pointer;
   transition: all 0.5s ease-out;
 }
 
-.contact-form input[type="submit"]:hover {
+.contact-form input[type='submit']:hover {
   opacity: 0.75;
 }
 
@@ -652,7 +652,7 @@ p {
     grid-column: span 2;
   }
 
-  .contact-form input[type="submit"] {
+  .contact-form input[type='submit'] {
     margin-left: 0;
   }
 
