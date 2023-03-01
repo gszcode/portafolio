@@ -666,8 +666,8 @@ p {
 }
 
 .trabajo-profesional {
-  width: 50%;
-  height: 50%;
+  max-width: 60%;
+  height: 60%;
   object-fit: cover;
   margin: auto;
   line-height: 200px;
