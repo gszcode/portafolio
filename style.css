@@ -664,3 +664,11 @@ p {
     text-align: right;
   }
 }
+
+.trabajo-profesional {
+  width: 60%;
+  height: 60%;
+  object-fit: cover;
+  margin: auto;
+  line-height: 200px;
+}
