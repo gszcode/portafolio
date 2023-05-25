@@ -422,7 +422,8 @@ p {
 .modal#trabajo-3:target,
 .modal#trabajo-4:target,
 .modal#trabajo-5:target,
-.modal#trabajo-6:target {
+.modal#trabajo-6:target,
+.modal#trabajo-7:target {
   opacity: 1;
   pointer-events: auto;
 }
